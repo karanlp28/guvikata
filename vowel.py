@@ -5,4 +5,4 @@ if st in li:
 elif st.isalpha():
   print("Consonant")
 else:
-  print("invalid")
+  print("Invalid")
