@@ -1,3 +1,3 @@
-f=int(input())
-b=str(f)
-print(len(b))
+a=int(input())
+v=str(a)
+print(len(v))
