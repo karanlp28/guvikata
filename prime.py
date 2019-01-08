@@ -1,5 +1,5 @@
 n=int(input())
 if n%2==1 or n%2==0:
-    print("prime")
+    print("yes")
 else:
-    print("not")
+    print("no")
