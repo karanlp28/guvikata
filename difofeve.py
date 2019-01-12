@@ -1,6 +1,6 @@
 n,m=map(int,input().split())
 k=n-m
 if k%2==0:
-    print("yes")
+    print("even")
 else:
-    print("no")
+    print("odd")
